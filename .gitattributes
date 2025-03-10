@@ -1,0 +1,2 @@
+di-amd64-console-20250302T170343Z.qcow2.01 filter=lfs diff=lfs merge=lfs -text
+di-amd64-console-20250302T170343Z.qcow2.02 filter=lfs diff=lfs merge=lfs -text
